@@ -195,7 +195,9 @@ defaults:
       permalink: /:title/
 
 sass:
-  style: compressed
+  load_paths:
+    - _sass
+    - node_modules/bootstrap/scss
 
 compress_html:
   clippings: all
