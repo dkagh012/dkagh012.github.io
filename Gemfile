@@ -7,6 +7,7 @@ gemspec
 gem "tzinfo"
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem "csv"
+gem "base64"
 gem "jekyll-coffeescript"
 gem "jekyll-default-layout"
 gem "jekyll-github-metadata"
